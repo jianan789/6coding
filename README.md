@@ -6,6 +6,8 @@
 哔哩哔哩: https://www.bilibili.com/video/BV1pq4y117Ct <br/>
 公众号：https://mp.weixin.qq.com/s/-QvdiAX3d2tkTvfScaf62g <br/>
 知乎：https://www.zhihu.com/zvideo/1459590757539123200 <br/>
+今日头条：https://www.ixigua.com/7047061529216156196
+
 
 <hr/>
 
