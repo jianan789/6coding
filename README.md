@@ -11,12 +11,17 @@
 - 风险评估 资产 威胁（威胁识别） 漏洞（脆弱性）数据安全 渗透测试
 
 
-#### 第一课 零基础到全栈，全栈工程师为什么那么火，全栈都涉及哪些技术内容
+#### 第1课 零基础到全栈，全栈工程师为什么那么火，全栈都涉及哪些技术内容
 哔哩哔哩: https://www.bilibili.com/video/BV1pq4y117Ct <br/>
 公众号：https://mp.weixin.qq.com/s/-QvdiAX3d2tkTvfScaf62g <br/>
 知乎：https://www.zhihu.com/zvideo/1459590757539123200 <br/>
 今日头条：https://www.ixigua.com/7047061529216156196
 
+#### 第2课 Java第1课入门 你真的了解应用最广泛的编程语言Java发展历史吗? 
+哔哩哔哩: https://www.bilibili.com/video/BV1y3411Y7aP/ <br/>
+公众号：https://mp.weixin.qq.com/s/he-YIh4MSttJr9ALEiVkNQ <br/>
+知乎：https://www.zhihu.com/zvideo/1460656981618552832 <br/>
+今日头条：https://www.ixigua.com/7048150026111058435
 
 <hr/>
 
