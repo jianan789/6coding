@@ -23,10 +23,24 @@
 知乎：https://www.zhihu.com/zvideo/1460656981618552832 <br/>
 今日头条：https://www.ixigua.com/7048150026111058435
 
+
+#### 第3课 Java第2课入门 Java入门 2 什么是程序，程序=算法+数据结构 
+哔哩哔哩: https://www.bilibili.com/video/BV1444y1j7p6 <br/>
+公众号：https://mp.weixin.qq.com/s/9mlDv-j3DpDbh-RXMetGew <br/>
+知乎：https://www.zhihu.com/zvideo/1461831445216464896 <br/>
+今日头条：https://www.ixigua.com/7049351037718790667
+
+#### 第4课 从技术架构来看「西安一码通」 
+哔哩哔哩: https://www.bilibili.com/video/BV1oi4y1X7xR <br/>
+知乎：https://www.zhihu.com/zvideo/1462048108691148800 <br/>
+今日头条： https://www.ixigua.com/7049582954829644296 <br/>
+公众号：https://mp.weixin.qq.com/s/QKIaPhAWuA13aDoEA9M7CQ
+
+
 <hr/>
 
 #### 欢迎关注，评论留言，私信互动。
-提供技术咨询，架构优化，App/小程序/网站等系统开发，爬虫，逆向，安全等服务。<br/>
+提供技术咨询，架构优化，App/小程序/网站等系统开发，运维，爬虫，逆向，安全等服务。<br/>
 微信公众号: 6维编程
 
 ![141640854095_ pic](https://user-images.githubusercontent.com/6212024/147741178-f1315a1d-af84-41af-8b1b-5b709a95453a.jpg)
